@@ -19,7 +19,7 @@ const int pot = A0;
 
 
 // Pines de Control Shield
-const int E1Pin = 10;   // Velocidad 1
+const int E1Pin = 9;   // Velocidad 1   /// SE CAMBIO DEL PIN 10 AL 9 // HACER CAMBIO AL 10 EN CASO DE FALLA
 const int M1Pin = 12;   // Direccion 1
 const int E2Pin = 11;   // Velocidad 2
 const int M2Pin = 13;   // Direccion 2
