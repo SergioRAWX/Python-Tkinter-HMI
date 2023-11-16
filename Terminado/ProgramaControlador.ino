@@ -25,8 +25,8 @@ const int E2Pin = 11;   // Velocidad 2
 const int M2Pin = 13;   // Direccion 2
 
 // Traducción de E1 para dirección con dos lineas
-const int Ain1 = 6;
-const int Ain2 = 7;
+const int Ain1 = 7;
+const int Ain2 = 8;
 
 //Variable global de posición compartida con la interrupción
 volatile int theta = 0;
